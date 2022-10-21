@@ -1,5 +1,5 @@
 # graphity_detection
-
+----------------------------------------------
 python3 graphity_detection.py -i [binary_path]
 python3 graphity_classifier.py -i [binary_path]
 ----------------------------------------------
