@@ -16,4 +16,4 @@ detection model accuarcy: 98.06%
 
 number of feature: 23
 
-Model_svg2:classication Model
+Model_svg2:classication Model , GraphTheory_RF is too large to upload, if you want to take the model, contact with me
