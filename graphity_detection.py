@@ -29,6 +29,7 @@ def create_graph(path):
             pass
        
        
+       
     for lines in data.split('\n'):
         tmp=[]
         for words in lines.split():
